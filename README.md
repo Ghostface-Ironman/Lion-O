@@ -1,4 +1,6 @@
 # Lion-O
 
-https://github.com/Ghostface-Ironman/Lion-O/assets/89153532/b1b020df-95a7-46d9-b4fe-581f886d9614
+$${\widetilde{y}}\_s\left[n\right]=abe^{-j\phi}\sum_{m=-\infty}^{\infty}{\widetilde{s}\left[m\right]{\widetilde{s}}^\ast\left[m-n\right]}$$
+
+
 
